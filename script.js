@@ -45,5 +45,5 @@ let currentItem = 0;
 
 // load initial item
 window.addEventListener('DOMContentLoaded', function(){
-    const 
+    const items = reviews[]
 });
